@@ -2,22 +2,25 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MyFirstScript : MonoBehaviour {
+public class MyFirstScript : MonoBehaviour
+{
+        public float moveSpeed = 10f;
+        public float turnSpeed = 50f;
 
-    int myInt = 5;
 
-
-    void Start()
+    void Update()
     {
-        myInt = MultiplyByTwo(myInt);
-        Debug.Log(myInt);
+        if (Input.GetKey(KeyCode.UpArrow))
+            transform.Translate(Vector3.forward * moveSpeed * Time.deltaTime);
+
+        if (Input.GetKey(KeyCode.DownArrow))
+            transform.Translate(-Vector3.forward * moveSpeed * Time.deltaTime);
+
+        if (Input.GetKey(KeyCode.LeftArrow))
+            transform.Rotate(Vector3.up, -turnSpeed * Time.deltaTime);
+
+        if (Input.GetKey(KeyCode.RightArrow))
+            transform.Rotate(Vector3.up, turnSpeed * Time.deltaTime);
     }
 
-
-    int MultiplyByTwo(int number)
-    {
-        int ret;
-        ret = number * 2;
-        return ret;
-    }
 }

@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{33E5FA12-A95A-11CD-DD20-54830CA803C6}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Move.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyFirstScript.cs">
     <Files>
       <File FileName="Assets/MyFirstScript.cs" Line="20" Column="26" />
       <File FileName="Assets/Animal.cs" Line="13" Column="2" />
       <File FileName="Assets/Dog.cs" Line="1" Column="1" />
-      <File FileName="Assets/Example.cs" Line="22" Column="2" />
-      <File FileName="Assets/Move.cs" Line="1" Column="1" />
+      <File FileName="Assets/Move.cs" Line="18" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
