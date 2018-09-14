@@ -2,26 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Move : MonoBehaviour {
+public class Move : MonoBehaviour 
+{
+        int numEnemies = 3;
 
-	void Start () 
-    {
-		
-	}
 
-    public CharacterController Character;
+        void Start()
+        {
+            for (int i = 0; i < numEnemies; i++)
+            {
+                Debug.Log("Creating enemy number: " + i);
+            }
+        }
+    }
 
-    public float Speed;
-    public Vector3 MoveSpeed;
-    public Vector3 RotateSpeed;
-
-	void Update () 
-    {
-
-        MoveSpeed.x = Speed*Input.GetAxis("Horizontal");
-        MoveSpeed *= Time.deltaTime;
-
-        Character.Move(MoveSpeed);
-       
-	}
-}
