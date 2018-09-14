@@ -4,15 +4,18 @@ using UnityEngine;
 
 public class Move : MonoBehaviour 
 {
-        int numEnemies = 3;
+    public CharacterController Character;
 
+    public float Speed;
+    public Vector3 MoveSpeed;
+    public Vector3 RotateSpeed;
 
-        void Start()
-        {
-            for (int i = 0; i < numEnemies; i++)
-            {
-                Debug.Log("Creating enemy number: " + i);
-            }
-        }
+    private void Update()
+    {
+        MoveSpeed.x = Speed*Input.GetAxis("Horizontal");
+        MoveSpeed *= Time.deltaTime;
+
+        Character.Move(MoveSpeed);
     }
+}
 
