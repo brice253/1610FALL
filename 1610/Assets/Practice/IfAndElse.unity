@@ -143,6 +143,7 @@ MonoBehaviour:
   A: 2
   B: 2
   C: 4
+  Password: SkullKid
 --- !u!4 &159762010
 Transform:
   m_ObjectHideFlags: 0

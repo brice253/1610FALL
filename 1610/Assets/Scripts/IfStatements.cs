@@ -8,6 +8,8 @@ public class IfStatements : MonoBehaviour
     public int B;
     public int C;
 
+    public string Password;
+
     void Update()
     {
         if (A + B == C)
@@ -17,6 +19,15 @@ public class IfStatements : MonoBehaviour
         else
         {
             print("Incorrect");
+        }
+
+        if (Password == "SkullKid")
+        {
+            print("Password Correct");
+        }
+        else 
+        {
+            print("Incorrect Password, intruder alert");
         }
     }	
 }
