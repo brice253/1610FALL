@@ -113,46 +113,49 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &1083055850
+--- !u!1 &159762008
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1083055851}
-  - component: {fileID: 1083055852}
+  - component: {fileID: 159762010}
+  - component: {fileID: 159762009}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: IfStatements
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1083055851
+--- !u!114 &159762009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 159762008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17a5d538cb4c5499d878f8d4d4c01450, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  A: 2
+  B: 2
+  C: 4
+--- !u!4 &159762010
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1083055850}
+  m_GameObject: {fileID: 159762008}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 263.8379, y: 157.04019, z: 7.410604}
+  m_LocalPosition: {x: 307.31424, y: 119.70418, z: -10.6875}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1083055852
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1083055850}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b6b526a703e741fc8a372994b5a7f37, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1682822412
 GameObject:
   m_ObjectHideFlags: 0
