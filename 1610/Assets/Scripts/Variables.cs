@@ -28,6 +28,10 @@ public class Variables : MonoBehaviour {
         {
             print(PlayerName + " Is a Wizard.");
         }
+        else
+        {
+            print(PlayerName + " Is a Muggle.");
+        }
     }
 	
 	// Update is called once per frame

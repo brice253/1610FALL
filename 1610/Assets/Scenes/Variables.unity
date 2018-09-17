@@ -147,7 +147,7 @@ MonoBehaviour:
   AmmoCount: 100
   InventoryCount: 0
   Health: 1
-  Money: 0
+  Money: 5
   PlayerName: Harry
   Team: Gryffindor
   Location: {x: 10, y: 0, z: 4}
