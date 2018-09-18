@@ -4,7 +4,7 @@
     <Files>
       <File FileName="Assets/Scripts/IfStatements.cs" Line="24" Column="35" />
       <File FileName="Assets/Scripts/Variables.cs" Line="33" Column="49" />
-      <File FileName="Assets/Scripts/AddMoney.cs" Line="7" Column="21" />
+      <File FileName="Assets/Scripts/AddMoney.cs" Line="12" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
