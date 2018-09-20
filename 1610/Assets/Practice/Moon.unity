@@ -371,6 +371,23 @@ PlayableDirector:
     value: {fileID: 1207981389}
   m_ExposedReferences:
     m_References: []
+--- !u!1 &1548503048 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: b609e414c0fc2428cb2c7f652428f694,
+    type: 3}
+  m_PrefabInternal: {fileID: 50044732}
+--- !u!114 &1548503049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1548503048}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d57bc7c9f1c3409e8ab7518806d877f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Movement: {x: 0, y: 0, z: 0}
 --- !u!1 &1918190362
 GameObject:
   m_ObjectHideFlags: 0
