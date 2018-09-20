@@ -210,6 +210,7 @@ GameObject:
   - component: {fileID: 692068341}
   - component: {fileID: 692068340}
   - component: {fileID: 692068339}
+  - component: {fileID: 692068343}
   m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
@@ -284,6 +285,23 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &692068343
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 692068338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ce554d1692b410da5e6e1dabe41f33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Bob
+  Race: Dwarf
+  Age: 12
+  Money: 25
+  Weight: 600
+  Ethnicity: {r: 0, g: 0, b: 0, a: 1}
 --- !u!1 &752882600
 GameObject:
   m_ObjectHideFlags: 0
@@ -619,6 +637,7 @@ GameObject:
   - component: {fileID: 1834068751}
   - component: {fileID: 1834068750}
   - component: {fileID: 1834068749}
+  - component: {fileID: 1834068753}
   m_Layer: 0
   m_Name: Head
   m_TagString: Untagged
@@ -693,6 +712,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1834068753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1834068748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b73606873ca24a448beb2af319323e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Explosion: {x: 0, y: 0, z: 0}
 --- !u!1 &2075963987
 GameObject:
   m_ObjectHideFlags: 0

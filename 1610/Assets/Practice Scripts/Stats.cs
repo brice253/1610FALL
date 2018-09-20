@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class Stats : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    public string Name = "Bob";
+    public string Race = "Dwarf";
+
+    public int Age = 12;
+    public int Money = 25;
+
+    public float Weight = 600.0f;
+
+    public Color Ethnicity = Color.black;
 }
