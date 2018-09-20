@@ -6,7 +6,7 @@
       <File FileName="Assets/Practice Scripts/Movements.cs" Line="35" Column="3" />
       <File FileName="Assets/Scripts/FloatData.cs" Line="7" Column="5" />
       <File FileName="Assets/Scripts/MouseDownBehavior.cs" Line="10" Column="24" />
-      <File FileName="Assets/Scripts/AddValue.cs" Line="6" Column="5" />
+      <File FileName="Assets/Scripts/AddValue.cs" Line="14" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
