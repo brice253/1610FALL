@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{33E5FA12-A95A-11CD-DD20-54830CA803C6}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Practice Scripts/Rainbow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Practice Scripts/MasterSword.cs">
     <Files>
-      <File FileName="Assets/Scripts/MouseEventBehaviour.cs" Line="18" Column="1" />
-      <File FileName="Assets/Scripts/FloatData.cs" Line="1" Column="1" />
-      <File FileName="Assets/Practice Scripts/Rainbow.cs" Line="23" Column="6" />
+      <File FileName="Assets/Practice Scripts/Rainbow.cs" Line="27" Column="66" />
+      <File FileName="Assets/Practice Scripts/MasterSword.cs" Line="7" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
