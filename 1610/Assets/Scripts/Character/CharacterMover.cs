@@ -16,7 +16,7 @@ public class CharacterMover : MonoBehaviour
 	void Update () 
     {
         position.x = Speed * Input.GetAxis("Horizontal");
-        position.y = Speed * Input.GetAxis("Vertical");
+        position.z = Speed * Input.GetAxis("Vertical");
         Controller.Move(position*Time.deltaTime);
 
 	}
