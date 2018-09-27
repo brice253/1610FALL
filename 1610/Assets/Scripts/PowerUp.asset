@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3d5cc3dcc03e42799141e2e0580e04e, type: 3}
   m_Name: PowerUp
   m_EditorClassIdentifier: 
-  Data: {fileID: 11400000, guid: 4ecc6eced9ac74b669fde6612b38a1a6, type: 2}
+  Data: {fileID: 11400000, guid: efc1f76e048224a70a7d683279333881, type: 2}
