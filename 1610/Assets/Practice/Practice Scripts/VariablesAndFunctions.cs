@@ -3,22 +3,20 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class VariablesAndFunctions : MonoBehaviour {
-    string myName = "Brad";
+    int myAge = 23;
+
+    int FutureAge(int NewAge){
+        int future;
+
+        future = NewAge * myAge;
+
+        return future;
+    }
 
     private void Start()
     {
-        myName = FullName(" Rice");
-        Debug.Log(myName);
+        myAge = FutureAge(12);
+        Debug.Log(myAge);
     }
-
-    string FullName(string last)
-    {
-        string lastName;
-
-        lastName = myName + last;
-
-        return lastName;
-    }
-
 
 }
