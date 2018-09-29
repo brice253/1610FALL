@@ -7,7 +7,7 @@ public class VariablesAndFunctions : MonoBehaviour {
 
     private void Start()
     {
-        myName = FullName("Rice");
+        myName = FullName(" Rice");
         Debug.Log(myName);
     }
 
