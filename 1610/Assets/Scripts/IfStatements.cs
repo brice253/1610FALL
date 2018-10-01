@@ -9,10 +9,15 @@ public class IfStatements : MonoBehaviour {
     public int A, B, C;
 
     public FloatData WizardPower, PawnPower;
+    public NameId Lock, Key;
 
 	// Update is called once per frame
 	void Update () 
     {
+        if(Lock == Key)
+        {
+            print("Open door.");
+        }
 
         if(WizardPower.Value > PawnPower.Value)
         {

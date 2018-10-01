@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48c46bd29a7dc42afa4c192cdb49e455, type: 3}
   m_Name: WizardPower
   m_EditorClassIdentifier: 
-  Value: 0
+  Value: 100
