@@ -2,32 +2,52 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class IfStatements : MonoBehaviour 
-{
-    public int A;
-    public int B;
-    public int C;
+public class IfStatements : MonoBehaviour {
 
+    public bool LightOn;
     public string Password;
+    public int A, B, C;
 
-    void Update()
+    public FloatData WizardPower, PawnPower;
+
+	// Update is called once per frame
+	void Update () 
     {
-        if (A + B == C)
+
+        if(WizardPower.Value > PawnPower.Value)
         {
-            print("Correct");
+            print("Wizard wins!");
         }
         else
         {
-            print("Incorrect");
+            print("Pawn wins!");
         }
 
-        if (Password == "SkullKid")
+        if(LightOn)
         {
-            print("Password Correct");
+            print("The Light is on.");
         }
-        else 
+        else
         {
-            print("Incorrect Password, intruder alert");
+            print("The Light is off.");
         }
-    }	
+
+        if(Password == "OU812")
+        {
+            print("Password is correct");
+        }
+        else
+        {
+
+        }
+
+        if(C == A + B)
+        {
+            print(C);
+        }
+        else
+        {
+
+        }
+	}
 }
