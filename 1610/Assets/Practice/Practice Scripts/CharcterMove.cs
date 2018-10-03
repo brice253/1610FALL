@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class CharacterMover : MonoBehaviour 
+public class CharacterMove : MonoBehaviour 
 {
 
     public CharacterController Controller;
