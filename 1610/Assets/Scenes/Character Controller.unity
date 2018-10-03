@@ -288,8 +288,8 @@ GameObject:
   - component: {fileID: 1377736014}
   - component: {fileID: 1377736013}
   - component: {fileID: 1377736012}
-  - component: {fileID: 1377736017}
   - component: {fileID: 1377736016}
+  - component: {fileID: 1377736017}
   m_Layer: 0
   m_Name: Character
   m_TagString: Untagged
@@ -358,7 +358,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1377736011}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.55, z: 0}
+  m_LocalPosition: {x: 0, y: 3.42, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -389,11 +389,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1377736011}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 73223f84c26374060ab002467e545db3, type: 3}
+  m_Script: {fileID: 11500000, guid: 38a8dba368f6e411aa4a37ae9a7c4758, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Controller: {fileID: 1377736016}
-  Speed: 3
+  Gravity: 9.81
+  MoveSpeed: 3
+  JumpSpeed: 9
 --- !u!1 &1743646696
 GameObject:
   m_ObjectHideFlags: 0
