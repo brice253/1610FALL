@@ -8,7 +8,7 @@ public class DestroyObj : MonoBehaviour
 	// Use this for initialization
     IEnumerator Start () 
     {
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(5);
         Destroy(gameObject);
 	}
 
