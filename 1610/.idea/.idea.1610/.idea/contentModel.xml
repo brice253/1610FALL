@@ -31,7 +31,7 @@
           <e p="FloatData.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="InstanceObject.cs" t="Include" />
-          <e p="Instancing.cs" t="Include" />
+          <e p="InstancingBase.cs" t="Include" />
           <e p="MouseDownBehavior.cs" t="Include" />
           <e p="MouseEventBehaviour.cs" t="Include" />
           <e p="MyFirstScript.cs" t="Include" />
