@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" afterDir="false" />
-    </list>
+    <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +21,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="3" />
+          <entry key="cs" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="3" />
+          <entry key="C#" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -66,6 +64,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -162,12 +161,12 @@
       <updated>1539116831083</updated>
       <workItem from="1539116835092" duration="40000" />
       <workItem from="1539116950280" duration="7000" />
-      <workItem from="1539117082584" duration="89000" />
+      <workItem from="1539117082584" duration="266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136000" />
+    <option name="totallyTimeSpent" value="313000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -237,6 +236,18 @@
             <marker date="1539032480359" expanded="true" signature="90:294" ph="{...}" />
             <marker date="1539032480359" expanded="true" signature="146:292" ph="{...}" />
             <marker date="1539032480359" expanded="true" signature="193:289" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539031195342" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539031195342" expanded="true" signature="120:241" ph="{...}" />
+            <marker date="1539031195342" expanded="true" signature="170:177" ph="{...}" />
+            <marker date="1539031195342" expanded="true" signature="232:239" ph="{...}" />
           </folding>
         </state>
       </provider>
