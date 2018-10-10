@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,29 +24,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="7" />
+          <entry key="cs" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="7" />
+          <entry key="C#" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="189" />
+          <entry key="cs" value="820" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="189" />
+          <entry key="C#" value="820" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -62,6 +61,41 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <marker date="1539205403137" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539205403137" expanded="true" signature="124:401" ph="{...}" />
+                <marker date="1539205403137" expanded="true" signature="245:280" ph="{...}" />
+                <marker date="1539205403137" expanded="true" signature="311:344" ph="{...}" />
+                <marker date="1539205403137" expanded="true" signature="373:394" ph="{...}" />
+                <marker date="1539205403137" expanded="true" signature="441:588" ph="{...}" />
+                <marker date="1539205403137" expanded="true" signature="505:586" ph="{...}" />
+                <marker date="1539205403137" expanded="true" signature="623:764" ph="{...}" />
+                <marker date="1539205403137" expanded="true" signature="647:762" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <marker date="1539206462340" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539206462340" expanded="true" signature="118:319" ph="{...}" />
+                <marker date="1539206462340" expanded="true" signature="166:221" ph="{...}" />
+                <marker date="1539206462340" expanded="true" signature="259:316" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -69,7 +103,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstancingBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -78,6 +114,9 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/InstancingBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LocalBars.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" />
       </list>
     </option>
   </component>
@@ -90,8 +129,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="36" />
     <option name="y" value="23" />
-    <option name="width" value="1320" />
-    <option name="height" value="427" />
+    <option name="width" value="1216" />
+    <option name="height" value="658" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -168,12 +207,12 @@
       <workItem from="1539116835092" duration="40000" />
       <workItem from="1539116950280" duration="7000" />
       <workItem from="1539117082584" duration="1412000" />
-      <workItem from="1539203671072" duration="159000" />
+      <workItem from="1539203671072" duration="2096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1618000" />
+    <option name="totallyTimeSpent" value="3555000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -185,10 +224,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="23" width="1320" height="427" extended-state="0" />
+    <frame x="36" y="23" width="1216" height="658" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2769953" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30153322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -262,6 +301,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalBars.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -271,6 +317,37 @@
             <marker date="1539204074537" expanded="true" signature="120:394" ph="{...}" />
             <marker date="1539204074537" expanded="true" signature="181:263" ph="{...}" />
             <marker date="1539204074537" expanded="true" signature="315:391" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1539205403137" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539205403137" expanded="true" signature="124:401" ph="{...}" />
+            <marker date="1539205403137" expanded="true" signature="245:280" ph="{...}" />
+            <marker date="1539205403137" expanded="true" signature="311:344" ph="{...}" />
+            <marker date="1539205403137" expanded="true" signature="373:394" ph="{...}" />
+            <marker date="1539205403137" expanded="true" signature="441:588" ph="{...}" />
+            <marker date="1539205403137" expanded="true" signature="505:586" ph="{...}" />
+            <marker date="1539205403137" expanded="true" signature="623:764" ph="{...}" />
+            <marker date="1539205403137" expanded="true" signature="647:762" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1539206462340" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539206462340" expanded="true" signature="118:319" ph="{...}" />
+            <marker date="1539206462340" expanded="true" signature="166:221" ph="{...}" />
+            <marker date="1539206462340" expanded="true" signature="259:316" ph="{...}" />
           </folding>
         </state>
       </provider>
