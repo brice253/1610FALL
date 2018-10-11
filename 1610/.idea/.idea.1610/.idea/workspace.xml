@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,29 +26,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="11" />
+          <entry key="cs" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="11" />
+          <entry key="C#" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1306" />
+          <entry key="cs" value="1382" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1306" />
+          <entry key="C#" value="1382" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -66,6 +66,21 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <marker date="1539296649055" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539296649055" expanded="true" signature="119:248" ph="{...}" />
+                <marker date="1539296649055" expanded="true" signature="171:242" ph="{...}" />
+                <marker date="1539296649055" expanded="true" signature="214:239" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -77,6 +92,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -89,6 +105,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/LocalBars.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" />
         <option value="$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs" />
+        <option value="$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs" />
       </list>
     </option>
   </component>
@@ -180,12 +197,12 @@
       <workItem from="1539116950280" duration="7000" />
       <workItem from="1539117082584" duration="1412000" />
       <workItem from="1539203671072" duration="2572000" />
-      <workItem from="1539294721807" duration="645000" />
+      <workItem from="1539294721807" duration="959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4676000" />
+    <option name="totallyTimeSpent" value="4990000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -322,6 +339,19 @@
             <marker date="1539295400513" expanded="true" signature="302:344" ph="{...}" />
             <marker date="1539295400513" expanded="true" signature="369:412" ph="{...}" />
             <marker date="1539295400513" expanded="true" signature="440:507" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <marker date="1539296649055" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539296649055" expanded="true" signature="119:248" ph="{...}" />
+            <marker date="1539296649055" expanded="true" signature="171:242" ph="{...}" />
+            <marker date="1539296649055" expanded="true" signature="214:239" ph="{...}" />
           </folding>
         </state>
       </provider>

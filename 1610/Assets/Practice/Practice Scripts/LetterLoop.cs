@@ -2,15 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LetterLoop : MonoBehaviour {
+public class LetterLoop : MonoBehaviour
+{
+	public string[] FavoriteMovies;
 
-	// Use this for initialization
-	void Start () {
-		
+	void Start () 
+	{
+		foreach (var movie in FavoriteMovies)
+		{
+			print(movie);
+		}
 	}
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+	
 }
