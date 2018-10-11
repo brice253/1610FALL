@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="" />
+    <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,79 +19,48 @@
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="10" />
+          <entry key="cs" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="10" />
+          <entry key="C#" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="820" />
+          <entry key="cs" value="1306" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="820" />
+          <entry key="C#" value="1306" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-              <folding>
-                <marker date="1539204074537" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539204074537" expanded="true" signature="120:394" ph="{...}" />
-                <marker date="1539204074537" expanded="true" signature="181:263" ph="{...}" />
-                <marker date="1539204074537" expanded="true" signature="315:391" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-              <folding>
-                <marker date="1539205403137" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539205403137" expanded="true" signature="124:401" ph="{...}" />
-                <marker date="1539205403137" expanded="true" signature="245:280" ph="{...}" />
-                <marker date="1539205403137" expanded="true" signature="311:344" ph="{...}" />
-                <marker date="1539205403137" expanded="true" signature="373:394" ph="{...}" />
-                <marker date="1539205403137" expanded="true" signature="441:588" ph="{...}" />
-                <marker date="1539205403137" expanded="true" signature="505:586" ph="{...}" />
-                <marker date="1539205403137" expanded="true" signature="623:764" ph="{...}" />
-                <marker date="1539205403137" expanded="true" signature="647:762" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="255">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
               <folding>
-                <marker date="1539206462340" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539206462340" expanded="true" signature="118:319" ph="{...}" />
-                <marker date="1539206462340" expanded="true" signature="166:221" ph="{...}" />
-                <marker date="1539206462340" expanded="true" signature="259:316" ph="{...}" />
+                <marker date="1539295400513" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539295400513" expanded="true" signature="126:515" ph="{...}" />
+                <marker date="1539295400513" expanded="true" signature="194:513" ph="{...}" />
+                <marker date="1539295400513" expanded="true" signature="222:277" ph="{...}" />
+                <marker date="1539295400513" expanded="true" signature="302:344" ph="{...}" />
+                <marker date="1539295400513" expanded="true" signature="369:412" ph="{...}" />
+                <marker date="1539295400513" expanded="true" signature="440:507" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -105,6 +77,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -115,6 +88,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LocalBars.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" />
+        <option value="$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs" />
       </list>
     </option>
   </component>
@@ -136,9 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -156,7 +128,9 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,11 +180,12 @@
       <workItem from="1539116950280" duration="7000" />
       <workItem from="1539117082584" duration="1412000" />
       <workItem from="1539203671072" duration="2572000" />
+      <workItem from="1539294721807" duration="645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4031000" />
+    <option name="totallyTimeSpent" value="4676000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -225,9 +200,10 @@
     <frame x="36" y="23" width="1216" height="658" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30153322" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30664396" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32685512" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -280,10 +256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <marker date="1539118749602" expanded="true" signature="84:310" ph="{...}" />
-            <marker date="1539118749602" expanded="true" signature="163:307" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -291,21 +263,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
-          <folding>
-            <marker date="1537390413436" expanded="true" signature="6:44" ph="..." />
-            <marker date="1537390413436" expanded="true" signature="93:194" ph="{...}" />
-            <marker date="1537390413436" expanded="true" signature="156:192" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalBars.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalBars.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -331,7 +292,6 @@
             <marker date="1539205403137" expanded="true" signature="373:394" ph="{...}" />
             <marker date="1539205403137" expanded="true" signature="441:588" ph="{...}" />
             <marker date="1539205403137" expanded="true" signature="505:586" ph="{...}" />
-            <marker date="1539205403137" expanded="true" signature="623:764" ph="{...}" />
             <marker date="1539205403137" expanded="true" signature="647:762" ph="{...}" />
           </folding>
         </state>
@@ -346,6 +306,22 @@
             <marker date="1539206462340" expanded="true" signature="118:319" ph="{...}" />
             <marker date="1539206462340" expanded="true" signature="166:221" ph="{...}" />
             <marker date="1539206462340" expanded="true" signature="259:316" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <marker date="1539295400513" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539295400513" expanded="true" signature="126:515" ph="{...}" />
+            <marker date="1539295400513" expanded="true" signature="194:513" ph="{...}" />
+            <marker date="1539295400513" expanded="true" signature="222:277" ph="{...}" />
+            <marker date="1539295400513" expanded="true" signature="302:344" ph="{...}" />
+            <marker date="1539295400513" expanded="true" signature="369:412" ph="{...}" />
+            <marker date="1539295400513" expanded="true" signature="440:507" ph="{...}" />
           </folding>
         </state>
       </provider>
