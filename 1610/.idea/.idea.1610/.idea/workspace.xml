@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,13 +15,14 @@
     <session id="220917047">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -36,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1382" />
+          <entry key="cs" value="1408" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1382" />
+          <entry key="C#" value="1408" />
         </counts>
       </usages-collector>
     </session>
@@ -49,33 +50,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state relative-caret-position="150">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding>
-                <marker date="1539295400513" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539295400513" expanded="true" signature="126:515" ph="{...}" />
-                <marker date="1539295400513" expanded="true" signature="194:513" ph="{...}" />
-                <marker date="1539295400513" expanded="true" signature="222:277" ph="{...}" />
-                <marker date="1539295400513" expanded="true" signature="302:344" ph="{...}" />
-                <marker date="1539295400513" expanded="true" signature="369:412" ph="{...}" />
-                <marker date="1539295400513" expanded="true" signature="440:507" ph="{...}" />
+                <marker date="1539296649055" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539296649055" expanded="true" signature="119:248" ph="{...}" />
+                <marker date="1539296649055" expanded="true" signature="171:242" ph="{...}" />
+                <marker date="1539296649055" expanded="true" signature="214:239" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/PracticeForLoop.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="75">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding>
-                <marker date="1539296649055" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539296649055" expanded="true" signature="119:248" ph="{...}" />
-                <marker date="1539296649055" expanded="true" signature="171:242" ph="{...}" />
-                <marker date="1539296649055" expanded="true" signature="214:239" ph="{...}" />
+                <marker date="1539374064474" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539374064474" expanded="true" signature="124:268" ph="{...}" />
+                <marker date="1539374064474" expanded="true" signature="197:204" ph="{...}" />
+                <marker date="1539374064474" expanded="true" signature="259:266" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -89,11 +87,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstancingBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/PracticeForLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -106,6 +104,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" />
         <option value="$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs" />
         <option value="$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Practice/Practice Scripts/PracticeForLoop.cs" />
       </list>
     </option>
   </component>
@@ -116,10 +115,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
-    <option name="y" value="23" />
+    <option name="x" value="158" />
+    <option name="y" value="32" />
     <option name="width" value="1216" />
-    <option name="height" value="658" />
+    <option name="height" value="529" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -127,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -148,6 +146,7 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,12 +196,13 @@
       <workItem from="1539116950280" duration="7000" />
       <workItem from="1539117082584" duration="1412000" />
       <workItem from="1539203671072" duration="2572000" />
-      <workItem from="1539294721807" duration="959000" />
+      <workItem from="1539294721807" duration="1180000" />
+      <workItem from="1539373787567" duration="154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4990000" />
+    <option name="totallyTimeSpent" value="5365000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -214,13 +214,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="23" width="1216" height="658" extended-state="0" />
+    <frame x="158" y="32" width="1216" height="529" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30664396" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31175467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32685512" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -236,6 +235,7 @@
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Unity" order="14" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32685512" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -288,12 +288,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-          <folding>
-            <marker date="1539204074537" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539204074537" expanded="true" signature="120:394" ph="{...}" />
-            <marker date="1539204074537" expanded="true" signature="181:263" ph="{...}" />
-            <marker date="1539204074537" expanded="true" signature="315:391" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -301,16 +295,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <marker date="1539205403137" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539205403137" expanded="true" signature="124:401" ph="{...}" />
-            <marker date="1539205403137" expanded="true" signature="245:280" ph="{...}" />
-            <marker date="1539205403137" expanded="true" signature="311:344" ph="{...}" />
-            <marker date="1539205403137" expanded="true" signature="373:394" ph="{...}" />
-            <marker date="1539205403137" expanded="true" signature="441:588" ph="{...}" />
-            <marker date="1539205403137" expanded="true" signature="505:586" ph="{...}" />
-            <marker date="1539205403137" expanded="true" signature="647:762" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -318,12 +302,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding>
-            <marker date="1539206462340" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539206462340" expanded="true" signature="118:319" ph="{...}" />
-            <marker date="1539206462340" expanded="true" signature="166:221" ph="{...}" />
-            <marker date="1539206462340" expanded="true" signature="259:316" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -331,27 +309,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding>
-            <marker date="1539295400513" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539295400513" expanded="true" signature="126:515" ph="{...}" />
-            <marker date="1539295400513" expanded="true" signature="194:513" ph="{...}" />
-            <marker date="1539295400513" expanded="true" signature="222:277" ph="{...}" />
-            <marker date="1539295400513" expanded="true" signature="302:344" ph="{...}" />
-            <marker date="1539295400513" expanded="true" signature="369:412" ph="{...}" />
-            <marker date="1539295400513" expanded="true" signature="440:507" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding>
             <marker date="1539296649055" expanded="false" signature="6:78" ph="..." />
             <marker date="1539296649055" expanded="true" signature="119:248" ph="{...}" />
             <marker date="1539296649055" expanded="true" signature="171:242" ph="{...}" />
             <marker date="1539296649055" expanded="true" signature="214:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/PracticeForLoop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <marker date="1539374064474" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539374064474" expanded="true" signature="124:268" ph="{...}" />
+            <marker date="1539374064474" expanded="true" signature="197:204" ph="{...}" />
+            <marker date="1539374064474" expanded="true" signature="259:266" ph="{...}" />
           </folding>
         </state>
       </provider>
