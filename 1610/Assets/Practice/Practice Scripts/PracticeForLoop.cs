@@ -5,13 +5,16 @@ using UnityEngine;
 public class PracticeForLoop : MonoBehaviour
 {
 
-	public string Word;
+	public GameObject[] Word;
+	private Vector3 position;
+	public float Distance = 3;
 
 	// Use this for initialization
 	void Start () {
 		for (int i = 0; i < Word.Length; i++)
 		{
-			print(Word[i]);
+			Instantiate(Word[i], position, Quaternion.identity);
+			position.x += Distance;
 		}
 	}
 	
