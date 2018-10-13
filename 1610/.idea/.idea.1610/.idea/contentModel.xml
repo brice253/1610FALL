@@ -11,13 +11,11 @@
               <e p="Inventory.cs" t="Include" />
               <e p="SingleCharacterScript.cs" t="Include" />
             </e>
-            <e p="CharcterMove.cs" t="Include" />
             <e p="HeadBoom.cs" t="Include" />
             <e p="LetterLoop.cs" t="Include" />
-            <e p="Movements.cs" t="Include" />
+            <e p="LogicalOperators.cs" t="Include" />
             <e p="PracticeForLoop.cs" t="Include" />
             <e p="Rainbow.cs" t="Include" />
-            <e p="Stats.cs" t="Include" />
             <e p="TransformObject.cs" t="Include" />
             <e p="VariablesAndFunctions.cs" t="Include" />
           </e>
