@@ -14,6 +14,7 @@
             <e p="HeadBoom.cs" t="Include" />
             <e p="LetterLoop.cs" t="Include" />
             <e p="LogicalOperators.cs" t="Include" />
+            <e p="MathOperators.cs" t="Include" />
             <e p="PracticeForLoop.cs" t="Include" />
             <e p="Rainbow.cs" t="Include" />
             <e p="TransformObject.cs" t="Include" />
