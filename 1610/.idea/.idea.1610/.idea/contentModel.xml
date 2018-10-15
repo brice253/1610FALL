@@ -23,6 +23,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="AddMoney.cs" t="Include" />
+          <e p="AddToCollection.cs" t="Include" />
           <e p="AddValue.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />

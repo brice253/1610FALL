@@ -9,8 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 852c81f142bc7411d939ac3557556fe3, type: 3}
-  m_Name: StarWarsVSMysteryInc
+  m_Name: Weapons
   m_EditorClassIdentifier: 
   ObjectList:
-  - {fileID: 11400000, guid: 72c5fe3f2615c4d899d5f05fced0797e, type: 2}
-  - {fileID: 11400000, guid: ba3a1023b1aee40dcafb258bc0a7b3cb, type: 2}
+  - {fileID: 11400000, guid: 418bda95ccd504906ba5e090102bae56, type: 2}
+  - {fileID: 11400000, guid: cf2eb91efe82844dfa1bf5a2650b91fd, type: 2}
+  - {fileID: 11400000, guid: dd10149ebfa2a4e82a5d1d4639273682, type: 2}

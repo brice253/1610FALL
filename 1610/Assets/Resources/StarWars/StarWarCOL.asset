@@ -9,6 +9,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 852c81f142bc7411d939ac3557556fe3, type: 3}
-  m_Name: New Object Collection
+  m_Name: StarWarCOL
   m_EditorClassIdentifier: 
-  ObjectList: []
+  ObjectList:
+  - {fileID: 11400000, guid: ef780b2b700c24ffbbc012ccbe561e03, type: 2}
+  - {fileID: 11400000, guid: 506251975cd4642afafde1e105c44f28, type: 2}
+  - {fileID: 11400000, guid: 7cdf0771fd6614f2582f807d7ced3556, type: 2}
+  - {fileID: 11400000, guid: 52f37a791d85c4a8e916017faf59b8b3, type: 2}
+  - {fileID: 11400000, guid: 52f37a791d85c4a8e916017faf59b8b3, type: 2}
+  - {fileID: 11400000, guid: 52f37a791d85c4a8e916017faf59b8b3, type: 2}
