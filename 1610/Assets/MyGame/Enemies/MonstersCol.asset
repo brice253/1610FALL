@@ -9,6 +9,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 852c81f142bc7411d939ac3557556fe3, type: 3}
-  m_Name: Enemies
+  m_Name: MonstersCol
   m_EditorClassIdentifier: 
-  ObjectList: []
+  ObjectList:
+  - {fileID: 11400000, guid: 5fe9d9140fca04490883ec5592f34ed0, type: 2}
+  - {fileID: 11400000, guid: 2b46587e45f534dafad228dd7543ffca, type: 2}
+  - {fileID: 11400000, guid: e8b49e2d854b84dc090b3101d90e2d9c, type: 2}
+  - {fileID: 11400000, guid: 9988e7421e90443be8a3b129ecc93976, type: 2}
+  - {fileID: 11400000, guid: 1a0acccd21a404eedbdb75c55486b926, type: 2}
