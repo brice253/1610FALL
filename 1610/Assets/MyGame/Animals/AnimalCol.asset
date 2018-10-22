@@ -11,4 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 852c81f142bc7411d939ac3557556fe3, type: 3}
   m_Name: AnimalCol
   m_EditorClassIdentifier: 
-  ObjectList: []
+  ObjectList:
+  - {fileID: 11400000, guid: ab2b61cb3766540e69d6172f61a3a016, type: 2}
+  - {fileID: 11400000, guid: bbf463dd8e4154c3c9c8c275c6e7049d, type: 2}
+  - {fileID: 11400000, guid: 63ad3b26cff454b9b879cf558737967e, type: 2}
