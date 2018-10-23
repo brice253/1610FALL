@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="" />
+    <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Practice/Practice Scripts/AssignmentOperator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Practice/Practice Scripts/AssignmentOperator.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +20,12 @@
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -36,19 +40,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2345" />
+          <entry key="cs" value="2395" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2345" />
+          <entry key="C#" value="2395" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AddToCollection.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -57,6 +61,21 @@
                 <marker date="1539638633129" expanded="true" signature="6:78" ph="..." />
                 <marker date="1539638633129" expanded="true" signature="145:295" ph="{...}" />
                 <marker date="1539638633129" expanded="true" signature="236:288" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/AssignmentOperator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+              <folding>
+                <marker date="1540323545006" expanded="false" signature="6:78" ph="..." />
+                <marker date="1540323545006" expanded="true" signature="127:323" ph="{...}" />
+                <marker date="1540323545006" expanded="true" signature="210:259" ph="{...}" />
+                <marker date="1540323545006" expanded="true" signature="314:321" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -76,6 +95,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/LogicalOperators.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/AssignmentOperator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
@@ -98,6 +118,7 @@
         <option value="$PROJECT_DIR$/Assets/Practice/Practice Scripts/MathOperators.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ObjectCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AddToCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Practice/Practice Scripts/AssignmentOperator.cs" />
       </list>
     </option>
   </component>
@@ -108,8 +129,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="161" />
-    <option name="y" value="62" />
+    <option name="x" value="124" />
+    <option name="y" value="155" />
     <option name="width" value="1216" />
     <option name="height" value="529" />
   </component>
@@ -193,11 +214,12 @@
       <workItem from="1539373787567" duration="1774000" />
       <workItem from="1539462406116" duration="935000" />
       <workItem from="1539636527902" duration="1193000" />
+      <workItem from="1540323199127" duration="279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9113000" />
+    <option name="totallyTimeSpent" value="9392000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -209,10 +231,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="161" y="62" width="1216" height="529" extended-state="0" />
+    <frame x="124" y="155" width="1216" height="529" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32197616" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3270869" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,13 +344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <marker date="1539462652618" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539462652618" expanded="true" signature="125:480" ph="{...}" />
-            <marker date="1539462652618" expanded="true" signature="229:478" ph="{...}" />
-            <marker date="1539462652618" expanded="true" signature="295:347" ph="{...}" />
-            <marker date="1539462652618" expanded="true" signature="416:474" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -336,34 +351,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <marker date="1539463587055" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539463587055" expanded="true" signature="122:364" ph="{...}" />
-            <marker date="1539463587055" expanded="true" signature="223:360" ph="{...}" />
-            <marker date="1539463587055" expanded="true" signature="229:304" ph="/* C = A + B; ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AddValue.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1538082578808" expanded="false" signature="6:44" ph="..." />
-            <marker date="1538082578808" expanded="true" signature="106:368" ph="{...}" />
-            <marker date="1538082578808" expanded="true" signature="315:365" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectCollection.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <marker date="1539637230049" expanded="true" signature="6:78" ph="..." />
-            <marker date="1539637230049" expanded="true" signature="146:199" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -375,6 +372,19 @@
             <marker date="1539638633129" expanded="true" signature="6:78" ph="..." />
             <marker date="1539638633129" expanded="true" signature="145:295" ph="{...}" />
             <marker date="1539638633129" expanded="true" signature="236:288" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/AssignmentOperator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+          <folding>
+            <marker date="1540323545006" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540323545006" expanded="true" signature="127:323" ph="{...}" />
+            <marker date="1540323545006" expanded="true" signature="210:259" ph="{...}" />
+            <marker date="1540323545006" expanded="true" signature="314:321" ph="{...}" />
           </folding>
         </state>
       </provider>
