@@ -35,6 +35,7 @@
           <e p="InstanceObject.cs" t="Include" />
           <e p="InstancingBase.cs" t="Include" />
           <e p="LocalVars.cs" t="Include" />
+          <e p="Loops.cs" t="Include" />
           <e p="MouseDownBehavior.cs" t="Include" />
           <e p="MouseEventBehaviour.cs" t="Include" />
           <e p="MyFirstScript.cs" t="Include" />
