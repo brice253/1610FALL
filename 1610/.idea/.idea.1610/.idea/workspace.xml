@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Loops.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Loops.cs" afterDir="false" />
-    </list>
+    <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +12,7 @@
     <session id="220917047">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
@@ -82,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Loops.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            <state relative-caret-position="90">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding>
                 <marker date="1540414741004" expanded="false" signature="6:91" ph="..." />
                 <marker date="1540414741004" expanded="true" signature="127:427" ph="{...}" />
@@ -232,12 +230,12 @@
       <workItem from="1539462406116" duration="935000" />
       <workItem from="1539636527902" duration="1193000" />
       <workItem from="1540323199127" duration="400000" />
-      <workItem from="1540413485600" duration="1263000" />
+      <workItem from="1540413485600" duration="1342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10776000" />
+    <option name="totallyTimeSpent" value="10855000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,8 +407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Loops.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        <state relative-caret-position="90">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding>
             <marker date="1540414741004" expanded="false" signature="6:91" ph="..." />
             <marker date="1540414741004" expanded="true" signature="127:427" ph="{...}" />
