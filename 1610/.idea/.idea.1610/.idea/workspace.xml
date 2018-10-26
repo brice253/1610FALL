@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PracticeLoops.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PracticeLoops.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PracticeLoops.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PracticeLoops.cs.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +15,7 @@
     <session id="220917047">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
@@ -50,7 +51,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Loops.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -62,22 +63,6 @@
                 <marker date="1540414741004" expanded="true" signature="274:302" ph="{...}" />
                 <marker date="1540414741004" expanded="true" signature="335:360" ph="{...}" />
                 <marker date="1540414741004" expanded="true" signature="418:425" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PracticeLoops.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-              <folding>
-                <marker date="1540498679559" expanded="true" signature="6:78" ph="..." />
-                <marker date="1540498679559" expanded="true" signature="122:332" ph="{...}" />
-                <marker date="1540498679559" expanded="true" signature="197:268" ph="{...}" />
-                <marker date="1540498679559" expanded="true" signature="238:265" ph="{...}" />
-                <marker date="1540498679559" expanded="true" signature="323:330" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -102,7 +87,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PracticeLoops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AddValue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/MathOperators.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs" root0="FORCE_HIGHLIGHTING" />
@@ -222,12 +206,12 @@
       <workItem from="1539636527902" duration="1193000" />
       <workItem from="1540323199127" duration="400000" />
       <workItem from="1540413485600" duration="1342000" />
-      <workItem from="1540498482678" duration="197000" />
+      <workItem from="1540498482678" duration="319000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11052000" />
+    <option name="totallyTimeSpent" value="11174000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,6 +381,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PracticeLoops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Loops.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -408,20 +399,6 @@
             <marker date="1540414741004" expanded="true" signature="274:302" ph="{...}" />
             <marker date="1540414741004" expanded="true" signature="335:360" ph="{...}" />
             <marker date="1540414741004" expanded="true" signature="418:425" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PracticeLoops.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <marker date="1540498679559" expanded="true" signature="6:78" ph="..." />
-            <marker date="1540498679559" expanded="true" signature="122:332" ph="{...}" />
-            <marker date="1540498679559" expanded="true" signature="197:268" ph="{...}" />
-            <marker date="1540498679559" expanded="true" signature="238:265" ph="{...}" />
-            <marker date="1540498679559" expanded="true" signature="323:330" ph="{...}" />
           </folding>
         </state>
       </provider>

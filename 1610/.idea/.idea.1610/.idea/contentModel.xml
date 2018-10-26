@@ -41,7 +41,6 @@
           <e p="MyFirstScript.cs" t="Include" />
           <e p="NameId.cs" t="Include" />
           <e p="ObjectCollection.cs" t="Include" />
-          <e p="PracticeLoops.cs" t="Include" />
           <e p="Triggers" t="Include">
             <e p="Curse.cs" t="Include" />
             <e p="Ouch.cs" t="Include" />
