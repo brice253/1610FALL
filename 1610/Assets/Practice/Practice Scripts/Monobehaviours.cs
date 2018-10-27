@@ -19,6 +19,10 @@ public class Monobehaviours : MonoBehaviour {
 		print("Update");
 	}
 
+	private void OnMouseUp()
+	{
+		print("Mouse up");
+	}
 
 	private void OnMouseDown()
 	{
@@ -28,5 +32,15 @@ public class Monobehaviours : MonoBehaviour {
 	private void OnEnable()
 	{
 		print("Enabled");
+	}
+
+	private void OnBecameInvisible()
+	{
+		print("Where is the moon?");
+	}
+
+	private void OnBecameVisible()
+	{
+		print("The moon is back!");
 	}
 }
