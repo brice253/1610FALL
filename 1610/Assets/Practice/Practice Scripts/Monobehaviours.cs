@@ -18,4 +18,21 @@ public class Monobehaviours : MonoBehaviour {
 	void Update () {
 		print("Update");
 	}
+	
+	void
+
+	private void OnMouseDown()
+	{
+		print("Mouse down");
+	}
+
+	private void OnMouseUp()
+	{
+		print("Mouse up");
+	}
+
+	private void OnEnable()
+	{
+		print("Enabled");
+	}
 }
