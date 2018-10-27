@@ -16,6 +16,7 @@
             <e p="LetterLoop.cs" t="Include" />
             <e p="LogicalOperators.cs" t="Include" />
             <e p="MathOperators.cs" t="Include" />
+            <e p="Monobehaviours.cs" t="Include" />
             <e p="PracticeForLoop.cs" t="Include" />
             <e p="Rainbow.cs" t="Include" />
             <e p="TransformObject.cs" t="Include" />
