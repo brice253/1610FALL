@@ -18,8 +18,6 @@ public class Monobehaviours : MonoBehaviour {
 	void Update () {
 		print("Update");
 	}
-	
-	void
 
 	private void OnMouseDown()
 	{
