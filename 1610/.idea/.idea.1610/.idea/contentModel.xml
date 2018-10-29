@@ -32,6 +32,7 @@
           <e p="DestroyObj.cs" t="Include" />
           <e p="Dog.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="GameStates.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="InstanceObject.cs" t="Include" />
           <e p="InstancingBase.cs" t="Include" />
