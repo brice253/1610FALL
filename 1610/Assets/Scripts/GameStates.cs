@@ -1,8 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class GameStates {
+﻿public class GameStates {
     
     public enum States
     {
@@ -11,4 +7,5 @@ public class GameStates {
         Ending
     }
 
+    public States State;
 }
