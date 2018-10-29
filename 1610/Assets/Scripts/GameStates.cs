@@ -3,8 +3,10 @@
     public enum States
     {
         Starting,
+        Loading,
         Playing,
-        Ending
+        Dying,
+        Ending,
     }
 
     public States State;
