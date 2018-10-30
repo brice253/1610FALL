@@ -140,7 +140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8572f1e67f89d4225a73cdb9d27067b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameWeapon: 4
+  GameWeapon: 3
 --- !u!4 &274560782
 Transform:
   m_ObjectHideFlags: 0
