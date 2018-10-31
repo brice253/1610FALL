@@ -47,6 +47,7 @@
           <e p="ObjectCollection.cs" t="Include" />
           <e p="SwitchStatement2.cs" t="Include" />
           <e p="SwitchStatements.cs" t="Include" />
+          <e p="SwitchStatements3.cs" t="Include" />
           <e p="Triggers" t="Include">
             <e p="Curse.cs" t="Include" />
             <e p="Ouch.cs" t="Include" />

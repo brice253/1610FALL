@@ -1,16 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class GameBehaviours : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-		
-	}
+﻿public class GameBehaviours {
 	
-	// Update is called once per frame
-	void Update () {
-		
+	public enum Behaviours
+	{
+		Sleeping,
+		Eating,
+		Dying,
+		Starving
 	}
 }
