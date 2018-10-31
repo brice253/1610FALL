@@ -31,8 +31,8 @@
           <e p="CharacterMover.cs" t="Include" />
           <e p="DestroyObj.cs" t="Include" />
           <e p="Dog.cs" t="Include" />
-          <e p="ENUM2.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="GameBehaviours.cs" t="Include" />
           <e p="GameStates.cs" t="Include" />
           <e p="GameWeapons.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
