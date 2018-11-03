@@ -43,4 +43,9 @@ public class Monobehaviours : MonoBehaviour {
 	{
 		print("The moon is back!");
 	}
+
+	private void OnCollisionEnter(Collision other)
+	{
+		print("The two cubes are touching");
+	}
 }
