@@ -27,6 +27,9 @@
           <e p="AddMoney.cs" t="Include" />
           <e p="AddToCollection.cs" t="Include" />
           <e p="AddValue.cs" t="Include" />
+          <e p="AI system" t="Include">
+            <e p="BasicAi.cs" t="Include" />
+          </e>
           <e p="Animal.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="DestroyObj.cs" t="Include" />
