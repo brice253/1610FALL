@@ -17,7 +17,7 @@ public class EventRepeat : MonoBehaviour
 			yield return new WaitForSeconds(Seconds);
 			OnRepeat[i].Invoke();
 			
-			if (i <= OnRepeat.Length - 1)
+			if (i < OnRepeat.Length - 1)
 			{
 				i++;
 			}
