@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Controllers/RotateYAnimator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Controllers/RotateYAnimator.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CubeAnimator1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/CubeAnimator1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyGame/MyGameDGM.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyGame/MyGameDGM.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,17 +14,17 @@
     <session id="220917047">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="5" />
-          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.14" value="5" />
           <entry key="project.open.time.15" value="4" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,16 +51,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateAnims.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding>
                 <marker date="1542233423767" expanded="false" signature="6:78" ph="..." />
                 <marker date="1542233423767" expanded="true" signature="121:291" ph="{...}" />
                 <marker date="1542233423767" expanded="true" signature="190:232" ph="{...}" />
                 <marker date="1542233423767" expanded="true" signature="251:289" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-233">
+              <folding>
+                <marker date="1538607196188" expanded="false" signature="6:78" ph="..." />
+                <marker date="1538607196188" expanded="true" signature="124:1023" ph="{...}" />
+                <marker date="1538607196188" expanded="true" signature="385:447" ph="{...}" />
+                <marker date="1538607196188" expanded="true" signature="502:1021" ph="{...}" />
+                <marker date="1538607196188" expanded="true" signature="543:918" ph="{...}" />
+                <marker date="1538607196188" expanded="true" signature="840:908" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -232,11 +245,12 @@
       <workItem from="1541627090131" duration="1680000" />
       <workItem from="1541801620037" duration="269000" />
       <workItem from="1542233251027" duration="341000" />
+      <workItem from="1542412820012" duration="168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19026000" />
+    <option name="totallyTimeSpent" value="19194000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -251,7 +265,7 @@
     <frame x="130" y="148" width="1216" height="529" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39182281" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39863715" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -332,9 +346,6 @@
     <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/EqualityOperators.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/LetterLoop.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/PracticeForLoop.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/LogicalOperators.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/MathOperators.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AddValue.cs">
@@ -423,38 +434,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1539032480359" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539032480359" expanded="true" signature="90:294" ph="{...}" />
-            <marker date="1539032480359" expanded="true" signature="146:292" ph="{...}" />
-            <marker date="1539032480359" expanded="true" signature="193:289" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1539204074537" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539204074537" expanded="true" signature="120:394" ph="{...}" />
-            <marker date="1539204074537" expanded="true" signature="181:263" ph="{...}" />
-            <marker date="1539204074537" expanded="true" signature="315:391" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateAnims.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
             <marker date="1542233423767" expanded="false" signature="6:78" ph="..." />
             <marker date="1542233423767" expanded="true" signature="121:291" ph="{...}" />
             <marker date="1542233423767" expanded="true" signature="190:232" ph="{...}" />
             <marker date="1542233423767" expanded="true" signature="251:289" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <folding>
+            <marker date="1538607196188" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538607196188" expanded="true" signature="124:1023" ph="{...}" />
+            <marker date="1538607196188" expanded="true" signature="385:447" ph="{...}" />
+            <marker date="1538607196188" expanded="true" signature="502:1021" ph="{...}" />
+            <marker date="1538607196188" expanded="true" signature="543:918" ph="{...}" />
+            <marker date="1538607196188" expanded="true" signature="840:908" ph="{...}" />
           </folding>
         </state>
       </provider>
