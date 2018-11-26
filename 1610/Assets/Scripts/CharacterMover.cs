@@ -25,7 +25,7 @@ public class CharacterMover : MonoBehaviour {
         {
             position.Set(0, 0, MoveSpeed*Input.GetAxis("Vertical"));
             rotation.Set(0, Input.GetAxis("Horizontal"), 0);
-            transform.Rotate(rotation);
+            //transform.Rotate(rotation);
             position = transform.TransformDirection(position);
             
             if (Input.GetButton("Jump"))
