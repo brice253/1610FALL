@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/MyGame/MyGameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyGame/MyGameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/DGMbullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/DGMbullet.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/PlayerHealth.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Triggers/PlayerHealth.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/TriggerEventBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Triggers/TriggerEventBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Power Ups.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Power Ups.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,22 +21,22 @@
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="5" />
-          <entry key="project.open.time.14" value="8" />
+          <entry key="project.open.time.14" value="9" />
           <entry key="project.open.time.15" value="5" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="34" />
+          <entry key="cs" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="34" />
+          <entry key="C#" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -57,43 +54,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaController.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/TriggerEventBehaviour.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="210">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
-                <marker date="1542477979528" expanded="false" signature="6:110" ph="..." />
-                <marker date="1542477979528" expanded="true" signature="156:484" ph="{...}" />
-                <marker date="1542477979528" expanded="true" signature="240:296" ph="{...}" />
-                <marker date="1542477979528" expanded="true" signature="328:482" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/YouWin.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding>
-                <marker date="1543982998473" expanded="false" signature="6:78" ph="..." />
-                <marker date="1543982998473" expanded="true" signature="116:210" ph="{...}" />
-                <marker date="1543982998473" expanded="true" signature="165:208" ph="{...}" />
+                <marker date="1543982395701" expanded="false" signature="6:44" ph="..." />
+                <marker date="1543982395701" expanded="true" signature="97:301" ph="{...}" />
+                <marker date="1543982395701" expanded="true" signature="182:219" ph="{...}" />
+                <marker date="1543982395701" expanded="true" signature="260:298" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/Ouch.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state>
               <folding>
-                <marker date="1539204074537" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539204074537" expanded="true" signature="120:394" ph="{...}" />
-                <marker date="1539204074537" expanded="true" signature="181:263" ph="{...}" />
-                <marker date="1539204074537" expanded="true" signature="315:391" ph="{...}" />
+                <marker date="1538083652327" expanded="true" signature="74:207" ph="{...}" />
+                <marker date="1538083652327" expanded="true" signature="151:204" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -114,10 +95,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameBehaviours.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatements.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/YouWin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateAnims.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/Ouch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatement2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
@@ -174,8 +155,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="114" />
-    <option name="y" value="130" />
+    <option name="x" value="108" />
+    <option name="y" value="183" />
     <option name="width" value="1240" />
     <option name="height" value="527" />
   </component>
@@ -185,6 +166,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -203,9 +187,6 @@
         <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,11 +259,12 @@
       <workItem from="1543873202084" duration="182000" />
       <workItem from="1543980305729" duration="1238000" />
       <workItem from="1543983765721" duration="29000" />
+      <workItem from="1544046959625" duration="220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23675000" />
+    <option name="totallyTimeSpent" value="23895000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,7 +279,7 @@
     <frame x="114" y="130" width="1240" height="527" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.43238732" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.43989983" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -482,29 +464,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/TriggerEventBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/YouWin.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <marker date="1543982998473" expanded="false" signature="6:78" ph="..." />
-            <marker date="1543982998473" expanded="true" signature="116:210" ph="{...}" />
-            <marker date="1543982998473" expanded="true" signature="165:208" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -520,15 +483,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/YouWin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <marker date="1543982998473" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543982998473" expanded="true" signature="116:210" ph="{...}" />
+            <marker date="1543982998473" expanded="true" signature="165:208" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/TriggerEventBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
-            <marker date="1539204074537" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539204074537" expanded="true" signature="120:394" ph="{...}" />
-            <marker date="1539204074537" expanded="true" signature="181:263" ph="{...}" />
-            <marker date="1539204074537" expanded="true" signature="315:391" ph="{...}" />
+            <marker date="1543982395701" expanded="false" signature="6:44" ph="..." />
+            <marker date="1543982395701" expanded="true" signature="97:301" ph="{...}" />
+            <marker date="1543982395701" expanded="true" signature="182:219" ph="{...}" />
+            <marker date="1543982395701" expanded="true" signature="260:298" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/Ouch.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1538083652327" expanded="true" signature="74:207" ph="{...}" />
+            <marker date="1538083652327" expanded="true" signature="151:204" ph="{...}" />
           </folding>
         </state>
       </provider>
