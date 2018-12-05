@@ -12,8 +12,9 @@ public class TriggerEventBehaviour : MonoBehaviour
         Enable.Invoke();
     }
 
-    void OnTriggerEnter()
+    void OnTriggerEnter(Collider other)
     {
         Trigger.Invoke();
     }
+
 }

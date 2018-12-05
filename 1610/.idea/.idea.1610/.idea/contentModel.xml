@@ -8,6 +8,8 @@
         <e p="MyGame" t="Include">
           <e p="GameScripts" t="Include">
             <e p="PlayaController.cs" t="Include" />
+            <e p="PlayaStats.cs" t="Include" />
+            <e p="YouWin.cs" t="Include" />
           </e>
         </e>
         <e p="Scripts" t="Include">
