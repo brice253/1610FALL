@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyGame/MyGameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyGame/MyGameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/DGMbullet.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/DGMbullet.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ENUM.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ENUM.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SwitchStatement2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SwitchStatement2.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SwitchStatements3.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SwitchStatements3.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/PlayerHealth.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/PlayerHealth.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyGame/GameScripts/SwitchStatement2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyGame/GameScripts/SwitchStatement2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameWeapons.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameWeapons.cs.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +17,8 @@
     <session id="220917047">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="29" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="5" />
@@ -40,59 +28,41 @@
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="41" />
+          <entry key="cs" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="41" />
+          <entry key="C#" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="5162" />
+          <entry key="cs" value="5288" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="5162" />
+          <entry key="C#" value="5288" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventRepeat.cs">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/GameWeapons.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
-                <marker date="1541629227722" expanded="false" signature="6:86" ph="..." />
-                <marker date="1541629227722" expanded="true" signature="129:415" ph="{...}" />
-                <marker date="1541629227722" expanded="true" signature="230:411" ph="{...}" />
-                <marker date="1541629227722" expanded="true" signature="246:408" ph="{...}" />
-                <marker date="1541629227722" expanded="true" signature="356:375" ph="{...}" />
-                <marker date="1541629227722" expanded="true" signature="383:404" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/DestroyObj.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1539204074537" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539204074537" expanded="true" signature="120:394" ph="{...}" />
-                <marker date="1539204074537" expanded="true" signature="181:263" ph="{...}" />
-                <marker date="1539204074537" expanded="true" signature="315:391" ph="{...}" />
+                <marker date="1544209473938" expanded="true" signature="26:106" ph="{...}" />
+                <marker date="1544209473938" expanded="true" signature="49:104" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -101,27 +71,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/SwitchStatement2.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="328">
+              <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
               <folding>
-                <marker date="1540928394561" expanded="false" signature="6:144" ph="..." />
-                <marker date="1540928394561" expanded="true" signature="191:739" ph="{...}" />
-                <marker date="1540928394561" expanded="true" signature="252:737" ph="{...}" />
-                <marker date="1540928394561" expanded="true" signature="275:734" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatements.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1540846914010" expanded="false" signature="6:104" ph="..." />
-                <marker date="1540846914010" expanded="true" signature="151:691" ph="{...}" />
-                <marker date="1540846914010" expanded="true" signature="307:689" ph="{...}" />
-                <marker date="1540846914010" expanded="true" signature="330:686" ph="{...}" />
+                <marker date="1544209473949" expanded="false" signature="6:144" ph="..." />
+                <marker date="1544209473949" expanded="true" signature="191:759" ph="{...}" />
+                <marker date="1544209473949" expanded="true" signature="252:757" ph="{...}" />
+                <marker date="1544209473949" expanded="true" signature="275:754" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -134,26 +90,26 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameStates.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameWeapons.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AddToCollection.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/YouWin.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI system/BasicAi.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/TriggerEventBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventRepeat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstancingBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AddToCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameBehaviours.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/YouWin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateAnims.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/SwitchStatement2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectCollection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI system/BasicAi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/TriggerEventBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/GameWeapons.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AddValue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/DestroyObj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventRepeat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -190,6 +146,8 @@
         <option value="$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Triggers/TriggerEventBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/MyGame/GameScripts/YouWin.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyGame/GameScripts/MyGameWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyGame/GameScripts/GameWeapons.cs" />
         <option value="$PROJECT_DIR$/Assets/MyGame/GameScripts/SwitchStatement2.cs" />
       </list>
     </option>
@@ -201,8 +159,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-216" />
-    <option name="y" value="207" />
+    <option name="x" value="11" />
+    <option name="y" value="200" />
     <option name="width" value="1240" />
     <option name="height" value="527" />
   </component>
@@ -212,6 +170,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -230,9 +191,6 @@
         <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -306,12 +264,13 @@
       <workItem from="1543980305729" duration="1238000" />
       <workItem from="1543983765721" duration="29000" />
       <workItem from="1544046959625" duration="518000" />
-      <workItem from="1544206791110" duration="757000" />
+      <workItem from="1544206791110" duration="1026000" />
+      <workItem from="1544209355779" duration="119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24950000" />
+    <option name="totallyTimeSpent" value="25338000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -323,10 +282,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-216" y="207" width="1240" height="527" extended-state="0" />
+    <frame x="11" y="200" width="1240" height="527" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.44741234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.45492488" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -436,13 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameWeapons.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameBehaviours.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -450,13 +402,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatements3.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatements3.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/Monobehaviours.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectCollection.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -490,13 +436,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaController.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -513,12 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <marker date="1543982395701" expanded="false" signature="6:44" ph="..." />
-            <marker date="1543982395701" expanded="true" signature="97:301" ph="{...}" />
-            <marker date="1543982395701" expanded="true" signature="182:219" ph="{...}" />
-            <marker date="1543982395701" expanded="true" signature="260:298" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -526,53 +460,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <marker date="1541629227722" expanded="false" signature="6:86" ph="..." />
-            <marker date="1541629227722" expanded="true" signature="129:415" ph="{...}" />
-            <marker date="1541629227722" expanded="true" signature="230:411" ph="{...}" />
-            <marker date="1541629227722" expanded="true" signature="246:408" ph="{...}" />
-            <marker date="1541629227722" expanded="true" signature="356:375" ph="{...}" />
-            <marker date="1541629227722" expanded="true" signature="383:404" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/DestroyObj.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1539204074537" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539204074537" expanded="true" signature="120:394" ph="{...}" />
-            <marker date="1539204074537" expanded="true" signature="181:263" ph="{...}" />
-            <marker date="1539204074537" expanded="true" signature="315:391" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatement2.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatement2.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatements.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/MyGameWeapon.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameWeapons.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/SwitchStatement2.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="328">
+          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
           <folding>
-            <marker date="1540928394561" expanded="false" signature="6:144" ph="..." />
-            <marker date="1540928394561" expanded="true" signature="191:739" ph="{...}" />
-            <marker date="1540928394561" expanded="true" signature="252:737" ph="{...}" />
-            <marker date="1540928394561" expanded="true" signature="275:734" ph="{...}" />
+            <marker date="1544209473949" expanded="false" signature="6:144" ph="..." />
+            <marker date="1544209473949" expanded="true" signature="191:759" ph="{...}" />
+            <marker date="1544209473949" expanded="true" signature="252:757" ph="{...}" />
+            <marker date="1544209473949" expanded="true" signature="275:754" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatements.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/GameWeapons.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <marker date="1540846914010" expanded="false" signature="6:104" ph="..." />
-            <marker date="1540846914010" expanded="true" signature="151:691" ph="{...}" />
-            <marker date="1540846914010" expanded="true" signature="307:689" ph="{...}" />
-            <marker date="1540846914010" expanded="true" signature="330:686" ph="{...}" />
+            <marker date="1544209473938" expanded="true" signature="26:106" ph="{...}" />
+            <marker date="1544209473938" expanded="true" signature="49:104" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -12,20 +12,20 @@ public class SwitchStatement2 : MonoBehaviour
 	void Update () {
 		switch (GameWeapon)
 		{
-				case GameWeapons.Weapons.Sword:
-					print("Player is using a sword");
+				case GameWeapons.Weapons.Shotgun:
+					print("Player is using a shotgun");
 					break;
 				
-				case GameWeapons.Weapons.Axe:
-					print("Player is using a axe");
+				case GameWeapons.Weapons.Chainsaw:
+					print("Player is using a chainsaw");
 					break;
 				
-				case GameWeapons.Weapons.Bow:
-					print("Player is using a bow");
+				case GameWeapons.Weapons.Rifle:
+					print("Player is using a rifle");
 					break;
 				
-				case GameWeapons.Weapons.Spear:
-					print("Player is using a spear");
+				case GameWeapons.Weapons.Pistol:
+					print("Player is using a pistol");
 					break;
 				
 				case GameWeapons.Weapons.Shoe:

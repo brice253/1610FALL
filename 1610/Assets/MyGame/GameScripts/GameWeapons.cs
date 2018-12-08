@@ -3,10 +3,10 @@ public class GameWeapons {
 
 	public enum Weapons
 	{
-		Sword,
-		Axe,
-		Spear,
-		Bow,
+		Shotgun,
+		Chainsaw,
+		Pistol,
+		Rifle,
 		Shoe
 	}
 }
