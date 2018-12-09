@@ -9,6 +9,7 @@
           <e p="GameScripts" t="Include">
             <e p="DestroyObj.cs" t="Include" />
             <e p="GameWeapons.cs" t="Include" />
+            <e p="ObjectCollection.cs" t="Include" />
             <e p="Ouch.cs" t="Include" />
             <e p="PlayaController.cs" t="Include" />
             <e p="PlayaStats.cs" t="Include" />
@@ -48,7 +49,6 @@
           <e p="MouseEventBehaviour.cs" t="Include" />
           <e p="MyFirstScript.cs" t="Include" />
           <e p="NameId.cs" t="Include" />
-          <e p="ObjectCollection.cs" t="Include" />
           <e p="Practice Scripts" t="Include">
             <e p="AssignmentOperator.cs" t="Include" />
             <e p="Character" t="Include">

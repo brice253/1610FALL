@@ -2,35 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/10.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/10.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/Curse.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/Curse.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/Curse.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/Curse.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/Ouch.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/Ouch.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/PlayerMoney.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/PlayerMoney.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/PowerUp.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/PowerUp.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/PowerUp.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/PowerUp.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/Purchase.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/Purchase.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/Purchase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/Purchase.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/RoidRage.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/RoidRage.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/RoidRage.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/RoidRage.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/TriggerEventBehaviour.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/TriggerEventBehaviour.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/VendorTrigger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Triggers/VendorTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyGame/Collections/Objects.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyGame/Collections/Objects.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyGame/MyGameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyGame/MyGameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,12 +44,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="5379" />
+          <entry key="cs" value="5411" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="5379" />
+          <entry key="C#" value="5411" />
         </counts>
       </usages-collector>
     </session>
@@ -96,13 +72,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="240">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
-                <marker date="1544377207488" expanded="false" signature="6:78" ph="..." />
-                <marker date="1544377207488" expanded="true" signature="119:285" ph="{...}" />
-                <marker date="1544377207488" expanded="true" signature="183:283" ph="{...}" />
-                <marker date="1544377207488" expanded="true" signature="226:277" ph="{...}" />
+                <marker date="1544379025307" expanded="false" signature="6:78" ph="..." />
+                <marker date="1544379025307" expanded="true" signature="119:362" ph="{...}" />
+                <marker date="1544379025307" expanded="true" signature="183:360" ph="{...}" />
+                <marker date="1544379025307" expanded="true" signature="226:277" ph="{...}" />
+                <marker date="1544379025307" expanded="true" signature="290:354" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -150,7 +127,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateAnims.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/SwitchStatement2.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI system/BasicAi.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/GameWeapons.cs" root0="FORCE_HIGHLIGHTING" />
@@ -313,12 +289,12 @@
       <workItem from="1544046959625" duration="518000" />
       <workItem from="1544206791110" duration="1026000" />
       <workItem from="1544209355779" duration="300000" />
-      <workItem from="1544377006166" duration="201000" />
+      <workItem from="1544377006166" duration="436000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25720000" />
+    <option name="totallyTimeSpent" value="25955000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -564,13 +540,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="240">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <marker date="1544377207488" expanded="false" signature="6:78" ph="..." />
-            <marker date="1544377207488" expanded="true" signature="119:285" ph="{...}" />
-            <marker date="1544377207488" expanded="true" signature="183:283" ph="{...}" />
-            <marker date="1544377207488" expanded="true" signature="226:277" ph="{...}" />
+            <marker date="1544379025307" expanded="false" signature="6:78" ph="..." />
+            <marker date="1544379025307" expanded="true" signature="119:362" ph="{...}" />
+            <marker date="1544379025307" expanded="true" signature="183:360" ph="{...}" />
+            <marker date="1544379025307" expanded="true" signature="226:277" ph="{...}" />
+            <marker date="1544379025307" expanded="true" signature="290:354" ph="{...}" />
           </folding>
         </state>
       </provider>

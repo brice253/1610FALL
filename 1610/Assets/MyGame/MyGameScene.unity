@@ -684,7 +684,7 @@ GameObject:
   - component: {fileID: 624341245}
   - component: {fileID: 624341244}
   m_Layer: 11
-  m_Name: DGMzombieMan
+  m_Name: Zombe Man
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1589,7 +1589,7 @@ GameObject:
   - component: {fileID: 1542659876}
   - component: {fileID: 1542659877}
   m_Layer: 11
-  m_Name: DGMZombieLady
+  m_Name: Zombie Woman
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

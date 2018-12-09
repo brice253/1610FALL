@@ -12,5 +12,9 @@ public class PlayaStats : MonoBehaviour
         {
             Debug.Log("DEAD");
         }
+        else
+        {
+            Debug.Log("Player is healthy");
+        }
     }
 }

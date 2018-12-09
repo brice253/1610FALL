@@ -9,6 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 852c81f142bc7411d939ac3557556fe3, type: 3}
-  m_Name: New Object Collection
+  m_Name: Enemies
   m_EditorClassIdentifier: 
-  ObjectList: []
+  ObjectList:
+  - {fileID: 11400000, guid: 0b47adf5c838d4fc593461dafa962a58, type: 2}
+  - {fileID: 11400000, guid: 509118ca18670429daadde009bf0e41a, type: 2}
+  - {fileID: 11400000, guid: 714d2971e71384fbf89b667c15e98569, type: 2}
