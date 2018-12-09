@@ -8,7 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 48c46bd29a7dc42afa4c192cdb49e455, type: 3}
-  m_Name: PlayerHealth
+  m_Script: {fileID: 11500000, guid: d3d5cc3dcc03e42799141e2e0580e04e, type: 3}
+  m_Name: PowerUp
   m_EditorClassIdentifier: 
-  Value: -10
+  Data: {fileID: 11400000, guid: 17f9df511037d4221886455ac9abe077, type: 2}

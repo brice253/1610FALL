@@ -11,9 +11,18 @@
             <e p="GameWeapons.cs" t="Include" />
             <e p="Ouch.cs" t="Include" />
             <e p="PlayaController.cs" t="Include" />
+            <e p="PlayaStats.cs" t="Include" />
             <e p="SwitchStatement2.cs" t="Include" />
             <e p="SwitchStatements3.cs" t="Include" />
             <e p="YouWin.cs" t="Include" />
+          </e>
+          <e p="Triggers" t="Include">
+            <e p="Curse.cs" t="Include" />
+            <e p="PowerUp.cs" t="Include" />
+            <e p="Purchase.cs" t="Include" />
+            <e p="RoidRage.cs" t="Include" />
+            <e p="TriggerEventBehaviour.cs" t="Include" />
+            <e p="VendorTrigger.cs" t="Include" />
           </e>
         </e>
         <e p="Scripts" t="Include">
@@ -57,14 +66,6 @@
             <e p="VariablesAndFunctions.cs" t="Include" />
           </e>
           <e p="SwitchStatements.cs" t="Include" />
-          <e p="Triggers" t="Include">
-            <e p="Curse.cs" t="Include" />
-            <e p="PowerUp.cs" t="Include" />
-            <e p="Purchase.cs" t="Include" />
-            <e p="RoidRage.cs" t="Include" />
-            <e p="TriggerEventBehaviour.cs" t="Include" />
-            <e p="VendorTrigger.cs" t="Include" />
-          </e>
           <e p="UpdateAnims.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
           <e p="WhatCanSeeIt.cs" t="Include" />
