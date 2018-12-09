@@ -2614,6 +2614,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerHealth: {fileID: 11400000, guid: c3973e740d5534d3b9b241ebef9b3b01, type: 2}
+  PlayerName: Steve
 --- !u!1 &1935365794
 GameObject:
   m_ObjectHideFlags: 0

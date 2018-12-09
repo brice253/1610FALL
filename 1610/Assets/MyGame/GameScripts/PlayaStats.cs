@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayaStats : MonoBehaviour
 {
     public FloatData PlayerHealth;
+    public string PlayerName;
 
     private void Update()
     {
