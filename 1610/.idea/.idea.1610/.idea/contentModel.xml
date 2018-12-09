@@ -9,6 +9,7 @@
           <e p="GameScripts" t="Include">
             <e p="DestroyObj.cs" t="Include" />
             <e p="GameWeapons.cs" t="Include" />
+            <e p="Loops.cs" t="Include" />
             <e p="ObjectCollection.cs" t="Include" />
             <e p="Ouch.cs" t="Include" />
             <e p="PlayaController.cs" t="Include" />
@@ -44,7 +45,6 @@
           <e p="InstanceObject.cs" t="Include" />
           <e p="InstancingBase.cs" t="Include" />
           <e p="LocalVars.cs" t="Include" />
-          <e p="Loops.cs" t="Include" />
           <e p="MouseDownBehavior.cs" t="Include" />
           <e p="MouseEventBehaviour.cs" t="Include" />
           <e p="MyFirstScript.cs" t="Include" />

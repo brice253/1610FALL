@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs" afterDir="false" />
-    </list>
+    <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +12,7 @@
     <session id="220917047">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="31" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
@@ -119,7 +117,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/YouWin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateAnims.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/SwitchStatement2.cs" root0="FORCE_HIGHLIGHTING" />
@@ -285,12 +282,12 @@
       <workItem from="1544046959625" duration="518000" />
       <workItem from="1544206791110" duration="1026000" />
       <workItem from="1544209355779" duration="300000" />
-      <workItem from="1544377006166" duration="547000" />
+      <workItem from="1544377006166" duration="727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26066000" />
+    <option name="totallyTimeSpent" value="26246000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
