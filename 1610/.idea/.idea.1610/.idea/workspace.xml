@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="" />
+    <list default="true" id="4f614f34-1794-4778-afbb-49c45525dec5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/MyGame/MyGameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyGame/MyGameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyGame/PlayerHealth.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyGame/PlayerHealth.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +21,12 @@
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="5" />
           <entry key="project.open.time.14" value="10" />
-          <entry key="project.open.time.15" value="5" />
+          <entry key="project.open.time.15" value="6" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -63,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -79,10 +82,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Practice Scripts/WhileLoops.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/IfStatements.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-466">
+            <state>
               <folding>
                 <marker date="1538516791225" expanded="true" signature="62:910" ph="{...}" />
                 <marker date="1538516791225" expanded="true" signature="270:908" ph="{...}" />
@@ -117,6 +129,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/YouWin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Practice Scripts/WhileLoops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateAnims.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/SwitchStatement2.cs" root0="FORCE_HIGHLIGHTING" />
@@ -165,6 +178,7 @@
         <option value="$PROJECT_DIR$/Assets/MyGame/GameScripts/GameWeapons.cs" />
         <option value="$PROJECT_DIR$/Assets/MyGame/GameScripts/SwitchStatement2.cs" />
         <option value="$PROJECT_DIR$/Assets/MyGame/GameScripts/PlayaStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice Scripts/WhileLoops.cs" />
       </list>
     </option>
   </component>
@@ -186,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -204,6 +217,7 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -283,11 +297,12 @@
       <workItem from="1544206791110" duration="1026000" />
       <workItem from="1544209355779" duration="300000" />
       <workItem from="1544377006166" duration="727000" />
+      <workItem from="1544481430785" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26246000" />
+    <option name="totallyTimeSpent" value="26262000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,7 +317,7 @@
     <frame x="124" y="181" width="1240" height="527" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4624374" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.46994993" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -397,13 +412,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/AssignmentOperator.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PracticeLoops.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Loops.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Loops.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ENUM2.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameStates.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -421,13 +430,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatements3.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Practice/Practice Scripts/Monobehaviours.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectCollection.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectCollection.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/New Folder/BasicAi.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AI system/BasicAi.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -465,13 +468,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObj.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/Ouch.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/TriggerEventBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/TriggerEventBehaviour.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventRepeat.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -488,6 +485,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/MyGameWeapon.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameWeapons.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/SwitchStatement2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/GameWeapons.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -499,22 +503,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyGame/GameScripts/SwitchStatement2.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-          <folding>
-            <marker date="1544209473949" expanded="false" signature="6:144" ph="..." />
-            <marker date="1544209473949" expanded="true" signature="191:759" ph="{...}" />
-            <marker date="1544209473949" expanded="true" signature="252:757" ph="{...}" />
-            <marker date="1544209473949" expanded="true" signature="275:754" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/IfStatements.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-466">
+        <state>
           <folding>
             <marker date="1538516791225" expanded="true" signature="62:910" ph="{...}" />
             <marker date="1538516791225" expanded="true" signature="270:908" ph="{...}" />
@@ -542,6 +533,13 @@
             <marker date="1544379259910" expanded="true" signature="256:307" ph="{...}" />
             <marker date="1544379259910" expanded="true" signature="320:384" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Practice Scripts/WhileLoops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
